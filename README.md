@@ -57,3 +57,20 @@ part-3-nlp-sequence-modeling/
 - **TF-IDF** weights words by how unique they are to a document vs. the corpus.
 - **LSTM** maintains sequential memory via cell state and gated updates.
 - **Transformers** use self-attention to capture global context in parallel.
+
+---
+
+## 🔗 Data Source
+
+**Dataset provided by:** Masai School — Module 5 Assignment Dataset Pack
+
+**Google Drive Link:** [https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJIV-wBvUYs?usp=sharing](https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJIV-wBvUYs?usp=sharing)
+
+**Dataset used in this part:**
+
+| File | Description |
+|---|---|
+| `customer_support_text_classification.csv` | Main dataset — 1500 customer support messages with sentiment labels |
+| `data_dictionary.md` | Column descriptions and label definitions |
+
+> Located inside: `part_3_nlp_sequence_modeling/` folder in the shared Drive
